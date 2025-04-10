@@ -1,0 +1,79 @@
+Use Company Database:
+
+1. Query all the employee details working at DEL branch.
+
+2. Query the names of employees earning more than 45k.
+
+3. Apply inner join on employees and branches table.
+
+4. Query the names of employees working at Delhi branch.
+
+5. Query the names of employees earning more than 35k from Hyderabad branch.
+
+6. Query the names and salaries of employess working at Data Science department.
+
+
+Aggregate Functions:
+
+1. Average - 
+
+data = 1,2,3,4,5,6
+
+AVG(data) = 21/6 = 3.5
+
+
+1. Query the average salary of company.
+
+2. Find the average salary of Data Science department.
+
+3. Find the average salary for Hyderabad branch.
+
+
+
+2. Max - 
+
+data = 1,5,2,7,3,9,3,6 max = 9
+
+
+1. Find the highest salary of the company
+2. Query the name of employee earning highest salary from Cyber Security of Mumbai
+   branch. -HW
+
+
+3. Min - 
+
+data = 1,5,2,7,3,9,3,6 min = 1
+
+2. Find the lowest salary.
+
+
+4. Count - 
+
+data = 1,5,2,7,3,9,3,6 count = 8
+
+1. How many employees are there?
+2. How many employees working in Cyber Security department?
+
+
+5. SUM:
+
+data = 1,5,2,7,3,9,3,6  SUM = 36
+
+1. Find the total budget.
+2. Find the total budget of Data Science department.
+
+
+HW:
+
+1. Find the count of employees earning more than average salary.
+
+
+
+
+
+
+
+
+
+
+
